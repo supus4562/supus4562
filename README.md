@@ -1,4 +1,4 @@
-Hi, I am Supus ❇
+## Hi, I am Supus ❇
 
 👾 I am an aspiring CS student at LUMS.<br>
 💜 I love low-level languages such as Rust, C/C++, assembly etc.<br>
@@ -6,7 +6,7 @@ Hi, I am Supus ❇
 🧠 My [Instagram](https://www.instagram.com/supus4562/)<br>
 
 
-## 🟣 Socials:
+# 🟣 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:supus4562@outlook.com) 
 
 # 🟣 Tech Stack:
@@ -16,7 +16,7 @@ Hi, I am Supus ❇
 ![](https://nirzak-streak-stats.vercel.app/?user=supus4562&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=supus4562&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🟣 Random Dev Quote
+# 🟣 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
