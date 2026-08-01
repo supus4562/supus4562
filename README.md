@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a theoretical computer scientist, maybe?<br>I love building projects but love studying theory.<br> I am but a paradox.
+I am a theoretical computer scientist, maybe?<br>I love building projects but love studying theory.<br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:supuswupus@hotmail.com) 
